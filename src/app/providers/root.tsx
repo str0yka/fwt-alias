@@ -1,3 +1,3 @@
 export const Root = () => {
-  return <div>App</div>;
+  return <div>Root</div>;
 };
