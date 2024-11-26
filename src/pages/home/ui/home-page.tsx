@@ -1,1 +1,1 @@
-export const HomePage = () => null;
+export const HomePage = () => 'Hello World!';
