@@ -8,7 +8,7 @@ export const themeOptions = {
       default: '#09090B',
       paper: '#09090B'
     },
-    primary: {
+    main: {
       '50': '#fafafa',
       '100': '#f4f4f5',
       '200': '#e4e4e7',
